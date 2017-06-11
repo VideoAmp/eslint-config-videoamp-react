@@ -2,7 +2,7 @@
 [![Build Status](https://semaphoreci.com/api/v1/projects/ef174a25-ef92-40f9-88be-8acf6f0b01e1/1361593/badge.svg)](https://semaphoreci.com/videoamp/eslint-config-videoamp-react)
 [![npm version](https://badge.fury.io/js/eslint-config-videoamp-react.svg)](https://badge.fury.io/js/eslint-config-videoamp-react)
 
-This package uses ESLint to enforce VideoAmp's code style and provides an extended configuration of our base rules ([`eslint-config-videoamp`](https://github.com/VideoAmp/eslint-config-videoamp)) for our React.js projects.
+This package uses ESLint to enforce VideoAmp's code style and provides an extended configuration of our base rules (found at [`eslint-config-videoamp`](https://github.com/VideoAmp/eslint-config-videoamp)) for our React.js projects.
 
 If you are looking for our extended configuration for Node.js projects, see [`eslint-config-videoamp-node`](https://github.com/VideoAmp/eslint-config-videoamp-node).
 
