@@ -20,7 +20,7 @@ npm install --save-dev eslint-config-videoamp-react eslint
 Add `"extends": "videoamp-react"` to your `.eslintrc`.
 
 ## Resources
-See the [ESLint config docs](http://eslint.org/docs/user-guide/configuring#extending-configuration-files), [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react), [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y), and [eslint-plugin-css-modules](https://github.com/atfzl/eslint-plugin-css-modules) for more information.
+See the [ESLint config docs](http://eslint.org/docs/user-guide/configuring#extending-configuration-files), [`eslint-plugin-react`](https://github.com/yannickcr/eslint-plugin-react), [`eslint-plugin-jsx-a11y`](https://github.com/evcohen/eslint-plugin-jsx-a11y), and [`eslint-plugin-css-modules`](https://github.com/atfzl/eslint-plugin-css-modules) for more information.
 
 ## Contributing
 You can make sure this module lints with itself using `yarn lint`.
