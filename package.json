@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "VideoAmp's ESLint config for React projects",
   "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
   "repository": "git@github.com:VideoAmp/eslint-config-videoamp-react.git",
   "author": "VideoAmp <geeks@videoamp.com>",
   "license": "Apache-2.0",
   "dependencies": {
+    "eslint-config-videoamp": "^3.0.0",
     "eslint-plugin-css-modules": "^2.7.1",
     "eslint-plugin-jsx-a11y": "^5.0.3",
     "eslint-plugin-react": "^7.0.1"
