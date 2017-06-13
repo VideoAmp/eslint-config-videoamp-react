@@ -229,11 +229,11 @@ module.exports = {
 
         // Enforce JSX indentation
         // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-indent.md
-        "react/jsx-indent": ["error", 4],
+        "react/jsx-indent": "off",
 
         // Validate props indentation in JSX
         // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-indent-props.md
-        "react/jsx-indent-props": ["error", 4],
+        "react/jsx-indent-props": "off",
 
         // Validate JSX has key prop when in array or iterator
         // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-key.md
