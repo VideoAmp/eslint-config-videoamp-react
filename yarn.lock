@@ -312,9 +312,9 @@ eslint-ast-utils@^1.0.0:
   dependencies:
     lodash.get "^4.4.2"
 
-eslint-config-videoamp@^4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-videoamp/-/eslint-config-videoamp-4.1.0.tgz#05015abe2ee9f6db75fea24faa0c9d28d0506fc3"
+eslint-config-videoamp@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-videoamp/-/eslint-config-videoamp-4.1.1.tgz#f3476c2396383fe8cfc136de89473539b3b53645"
   dependencies:
     eslint-plugin-chai-expect "^1.1.1"
     eslint-plugin-chai-friendly "^0.3.6"
