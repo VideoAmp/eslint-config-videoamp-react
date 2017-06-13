@@ -10,16 +10,17 @@
   "author": "VideoAmp <geeks@videoamp.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "eslint-config-videoamp": "^4.0.0",
+    "babel-eslint": "^7.2.3",
+    "eslint-config-videoamp": "^4.1.0",
     "eslint-plugin-css-modules": "^2.7.1",
     "eslint-plugin-jest": "^20.0.3",
     "eslint-plugin-jsx-a11y": "^5.0.3",
-    "eslint-plugin-react": "https://github.com/yannickcr/eslint-plugin-react#81c8e356df1c98c8734f9d450f8263a0b508bb62"
+    "eslint-plugin-react": "^7.1.0"
   },
   "peerDependencies": {
-    "eslint": ">= 3.19.0"
+    "eslint": ">= 4.0.0"
   },
   "devDependencies": {
-    "eslint": "^3.19.0"
+    "eslint": "^4.0.0"
   }
 }

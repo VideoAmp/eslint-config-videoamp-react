@@ -19,8 +19,25 @@ npm install --save-dev eslint-config-videoamp-react eslint
 ## Usage
 Add `"extends": "videoamp-react"` to your `.eslintrc`.
 
+### Configuration for Webpack
+Below is an example `.eslintrc` configured to work with Webpack module resolution:
+```json
+{
+    "extends": ["videoamp-react"],
+    "settings": {
+        "import/resolver": {
+            "webpack": {
+                "config": "<PATH_TO_WEBPACK_CONFIG>"
+            }
+        }
+    }
+}
+
+```
+
 ## Resources
 - [ESLint config docs](http://eslint.org/docs/user-guide/configuring#extending-configuration-files)
+- [`babel-eslint`](https://github.com/babel/babel-eslint)
 - [`eslint-plugin-react`](https://github.com/yannickcr/eslint-plugin-react)
 - [`eslint-plugin-jsx-a11y`](https://github.com/evcohen/eslint-plugin-jsx-a11y)
 - [`eslint-plugin-css-modules`](https://github.com/atfzl/eslint-plugin-css-modules)
