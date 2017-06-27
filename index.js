@@ -15,6 +15,9 @@ module.exports = {
         jest: true,
         node: true,
     },
+    "globals": {
+        "jestExpect": true,
+    },
     "parserOptions": {
         ecmaVersion: 2017,
         sourceType: "module",
@@ -23,5 +26,8 @@ module.exports = {
             generators: true,
             experimentalObjectRestSpread: true,
         },
+    },
+    "rules": {
+        "jest/valid-expect": "off",
     },
 };
