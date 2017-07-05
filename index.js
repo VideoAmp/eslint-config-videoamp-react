@@ -3,6 +3,7 @@ const reactRules = [
     "./rules/plugins/react-a11y",
     "./rules/plugins/css-modules",
     "./rules/plugins/jest",
+    "./rules/plugins/class-property",
 ].map(require.resolve);
 
 module.exports = {
