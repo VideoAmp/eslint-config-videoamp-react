@@ -12,6 +12,7 @@
   "dependencies": {
     "babel-eslint": "^7.2.3",
     "eslint-config-videoamp": "^4.2.0",
+    "eslint-plugin-class-property": "^1.0.6",
     "eslint-plugin-css-modules": "^2.7.2",
     "eslint-plugin-jest": "^20.0.3",
     "eslint-plugin-jsx-a11y": "^5.0.3",
