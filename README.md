@@ -42,6 +42,7 @@ Below is an example `.eslintrc` configured to work with Webpack module resolutio
 - [`eslint-plugin-jsx-a11y`](https://github.com/evcohen/eslint-plugin-jsx-a11y)
 - [`eslint-plugin-css-modules`](https://github.com/atfzl/eslint-plugin-css-modules)
 - [`eslint-plugin-jest`](https://github.com/facebook/jest/tree/master/packages/eslint-plugin-jest)
+- [`eslint-plugin-class-property`](https://github.com/marudor/eslint-plugin-class-property) 
 
 ## Contributing
 You can make sure this module lints with itself using `yarn lint`.
