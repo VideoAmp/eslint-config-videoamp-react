@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-videoamp-react",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "VideoAmp's ESLint config for React projects",
   "main": "index.js",
   "scripts": {
