@@ -318,6 +318,8 @@ module.exports = {
             return: true,
             arrow: true,
         }],
+        "react/no-typos": "error",
+        "react/jsx-curly-brace-presence": ["error", "never"],
     },
 
     settings: {
